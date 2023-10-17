@@ -1,0 +1,7 @@
+{"level":"info","timestamp":"2023-10-16T17:42:53.218-0600","msg":"This is a Info message","git_revision":"","go_version":"go1.21.1"}
+{"level":"warn","timestamp":"2023-10-16T17:42:53.218-0600","msg":"This is a Warn message","git_revision":"","go_version":"go1.21.1"}
+{"level":"info","timestamp":"2023-10-16T17:44:56.323-0600","msg":"This is a Info message","git_revision":"","go_version":"go1.21.1"}
+{"level":"warn","timestamp":"2023-10-16T17:44:56.324-0600","msg":"This is a Warn message","git_revision":"","go_version":"go1.21.1"}
+{"level":"debug","timestamp":"2023-10-16T17:54:42.112-0600","msg":"This is a Debug message","git_revision":"","go_version":"go1.21.1"}
+{"level":"info","timestamp":"2023-10-16T17:54:42.112-0600","msg":"This is a Info message","git_revision":"","go_version":"go1.21.1"}
+{"level":"warn","timestamp":"2023-10-16T17:54:42.112-0600","msg":"This is a Warn message","git_revision":"","go_version":"go1.21.1"}

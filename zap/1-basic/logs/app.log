@@ -1,0 +1,14 @@
+{"level":"info","timestamp":"2023-10-16T10:22:47.677-0600","msg":"This is a Info message","git_revision":"","go_version":"go1.21.1"}
+{"level":"warn","timestamp":"2023-10-16T10:22:47.677-0600","msg":"This is a Warn message","git_revision":"","go_version":"go1.21.1"}
+{"level":"error","timestamp":"2023-10-16T10:22:47.677-0600","msg":"This is a Error message","git_revision":"","go_version":"go1.21.1"}
+{"level":"error","timestamp":"2023-10-16T10:22:47.677-0600","msg":"This is a Error message with an error object included","git_revision":"","go_version":"go1.21.1","error":"new Error"}
+{"level":"info","timestamp":"2023-10-16T10:25:42.177-0600","msg":"This is a Info message","git_revision":"","go_version":"go1.21.1"}
+{"level":"warn","timestamp":"2023-10-16T10:25:42.177-0600","msg":"This is a Warn message","git_revision":"","go_version":"go1.21.1"}
+{"level":"error","timestamp":"2023-10-16T10:25:42.177-0600","msg":"This is a Error message","git_revision":"","go_version":"go1.21.1"}
+{"level":"error","timestamp":"2023-10-16T10:25:42.177-0600","msg":"This is a Error message with an error object included","git_revision":"","go_version":"go1.21.1","error":"new Error"}
+{"level":"fatal","timestamp":"2023-10-16T10:25:42.177-0600","msg":"This is a Fatal error (calls os.Exit(1) after logging an error condition)","git_revision":"","go_version":"go1.21.1"}
+{"level":"info","timestamp":"2023-10-16T10:26:44.767-0600","msg":"This is a Info message","git_revision":"","go_version":"go1.21.1"}
+{"level":"warn","timestamp":"2023-10-16T10:26:44.767-0600","msg":"This is a Warn message","git_revision":"","go_version":"go1.21.1"}
+{"level":"error","timestamp":"2023-10-16T10:26:44.767-0600","msg":"This is a Error message","git_revision":"","go_version":"go1.21.1"}
+{"level":"error","timestamp":"2023-10-16T10:26:44.767-0600","msg":"This is a Error message with an error object included","git_revision":"","go_version":"go1.21.1","error":"new Error"}
+{"level":"fatal","timestamp":"2023-10-16T10:26:44.768-0600","msg":"This is a Fatal error (calls os.Exit(1), even if logging at FatalLevel is disabled)","git_revision":"","go_version":"go1.21.1"}
